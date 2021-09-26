@@ -1,0 +1,22 @@
+name: MageBanet
+version: '${version}'
+main: me.yura.magebanet.MageBanet
+authors: [ Yura2108 ]
+description: Система наказаний
+commands:
+  kick:
+  mute:
+  tempmute:
+  unmute:
+  ban:
+  unban:
+  tempban:
+  aban:
+  aunban:
+  amute:
+  aunmute:
+
+  puns:
+
+soft-depend:
+  - Essentials
