@@ -17,7 +17,7 @@
   public void onPunishmentAddEvent(PunishmentAddEvent event) {}
   
   @EventHandler
-  public void onPunishmentAddEvent(PunishmentRemoveEvent event) {}
+  public void onPunishmentRemoveEvent(PunishmentRemoveEvent event) {}
 
   DataManager.DATA.getPlayer(name).;
 ```
